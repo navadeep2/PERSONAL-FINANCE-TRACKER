@@ -1,0 +1,9 @@
+
+
+**Database Name: expenseman**
+
+
+
+**Tested with PHP v5**
+
+
