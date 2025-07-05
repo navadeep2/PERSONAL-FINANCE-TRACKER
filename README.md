@@ -41,7 +41,7 @@ This project allows users to:
 
 ## Author
 
-Created by **Navadeep**
+Created by **Navadeep**  
 GitHub: [navadeep2](https://github.com/navadeep2)
 
 ## Output
