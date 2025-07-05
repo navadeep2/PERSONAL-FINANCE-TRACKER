@@ -1,7 +1,5 @@
 # PERSONAL-FINANCE-TRACKER
 
-# Personal Finance Tracker
-
 This is a simple personal finance tracking web application built with **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
 
 ## Project Overview
